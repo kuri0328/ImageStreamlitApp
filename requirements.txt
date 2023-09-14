@@ -1,13 +1,9 @@
-ComputerVisionClient
-OperationStatusCodes
-VisualFeatureTypes
-CognitiveServicesCredentials
+azure.cognitiveservices.vision.computervision
+msrest
 array
 os
-Image
+Pillow
 sys
 time
 json
 streamlit
-ImageDraw
-ImageFont
