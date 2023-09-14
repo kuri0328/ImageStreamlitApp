@@ -1,9 +1,4 @@
-azure.cognitiveservices.vision.computervision
+azure-cognitiveservices-vision-computervision
 msrest
-array
-os
 Pillow
-sys
-time
-json
 streamlit
